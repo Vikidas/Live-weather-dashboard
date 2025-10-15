@@ -26,7 +26,6 @@ It allows users to check live weather updates for any city worldwide — includi
 | Libraries | `requests`, `streamlit`, `pandas`, `datetime` |
 | Tools | VS Code, Git, pip |
 
----
 
 ## ⚙️ Installation and Setup
 
@@ -35,3 +34,11 @@ Follow these steps to set up and run the project on your local machine:
 ### 1️⃣ Clone the Repository
 
 [github repo](https://github.com/Vikidas/Live-weather-dashboard)
+
+## 💡 Future Enhancements
+
+🌤️ Add 7-day forecast data
+🕓 Include sunrise/sunset timings
+📊 Visualize temperature trends using charts
+🗺️ Integrate map view for city locations
+🎨 Improve UI with custom themes
