@@ -33,5 +33,5 @@ It allows users to check live weather updates for any city worldwide — includi
 Follow these steps to set up and run the project on your local machine:
 
 ### 1️⃣ Clone the Repository
-```bash
+
 [github repo](https://github.com/Vikidas/Live-weather-dashboard)
